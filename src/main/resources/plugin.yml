@@ -1,0 +1,4 @@
+name: VaultOre
+version: '${project.version}'
+main: net.x656d707479.vaultore.VaultOre
+api-version: '1.16'
